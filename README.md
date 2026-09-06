@@ -6,8 +6,6 @@ An interactive **Power BI dashboard** developed using the **Superstore dataset**
 
 The project transforms retail transaction data into business-focused insights to support sales and profitability analysis.
 
----
-
 ## Objectives
 
 - Analyze overall sales and profit performance
@@ -18,8 +16,6 @@ The project transforms retail transaction data into business-focused insights to
 - Understand historical sales trends
 - Forecast future sales trends
 
----
-
 ## Tools & Technologies
 
 - Power BI Desktop
@@ -29,8 +25,6 @@ The project transforms retail transaction data into business-focused insights to
 - Data Cleaning & Transformation
 - Data Visualization
 - Business Intelligence
-
----
 
 ## Key Business Insights
 
